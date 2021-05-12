@@ -1,3 +1,3 @@
 # Gain.IO Website
 
-## All CSS should be applied through /assets/css/custom.css
+All CSS should be applied through /assets/css/custom.css
